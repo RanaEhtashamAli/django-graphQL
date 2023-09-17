@@ -1,2 +1,2 @@
 # django-graphQL
-A learning project to implement GraphQL with django.
+A learning project(very basic nothing fancy) to implement GraphQL with django.
